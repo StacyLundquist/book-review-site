@@ -10,3 +10,8 @@ img {
     margin-right: auto;
     width: 40%;
 }
+
+table {
+    line-height: 150%;
+    background-color: lightgrey;
+}
