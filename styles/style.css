@@ -6,3 +6,8 @@ header {
 nav :hover {
     background-color: magenta;
 }
+
+table {
+    border: firebrick 1px solid;
+    padding: red;
+}
